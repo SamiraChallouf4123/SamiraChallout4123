@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=2F80ED&background=FFFFFF00&width=550&lines=Master's+Graduate+in+Computer+Science;Specializing+in+ML,+DL+and+AI+Research;Bridging+Theory+and+Real-World+Applications;Always+Learning,+Always+Innovating" />
 
+
 - 🎓 Master's in Computer Science
 - 📫 Reach me at **samyrachallouf4@gmail.com**
 - 📄 Learn more about my experience: [Resume](https://drive.google.com/file/d/1tczRtZOV9AE9H_A_8M2gHEP2vPMiZqUm/view?usp=drive_link)
